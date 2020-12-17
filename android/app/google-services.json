@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "372883893583",
+    "project_id": "unlockme-e2215",
+    "storage_bucket": "unlockme-e2215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372883893583:android:daca649aff46fd851c293a",
+        "android_client_info": {
+          "package_name": "com.unlockme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372883893583-eb9cf6lde5mfa4i0d0a0ighmvnomlh3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyvE5Q-F1NtFPL6u6S1BH3YLIT7TYwko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372883893583-eb9cf6lde5mfa4i0d0a0ighmvnomlh3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "372883893583-r82fb7hh3tpdvtdnh9t8f620kd9vfn4u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.UnlockMe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
